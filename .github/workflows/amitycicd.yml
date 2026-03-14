@@ -43,7 +43,7 @@ jobs:
 
         run: |
 
-          cd Test/src
+          cd AmityCICD/
 
           javac *.java
  
